@@ -1,4 +1,4 @@
-#scripts:
+## scripts:
 
 1. melos run analyze
 2. melos run format
