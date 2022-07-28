@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: card_widgets
+dependency_overrides:
+  card_widgets:
+    path: ../../packages/card_widgets

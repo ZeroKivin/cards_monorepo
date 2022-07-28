@@ -1,0 +1,3 @@
+dependency_overrides:
+  card_widgets:
+    path: ../../packages/card_widgets
