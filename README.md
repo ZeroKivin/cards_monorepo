@@ -1,3 +1,5 @@
+Working with a monorepository using melos.
+
 ## scripts:
 
 1. melos run analyze
